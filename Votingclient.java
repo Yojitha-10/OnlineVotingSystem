@@ -1,4 +1,4 @@
-package com.java.Registration;
+package com.java.mynetworking.client;
  
 import java.io.BufferedReader;
 import java.io.IOException;
